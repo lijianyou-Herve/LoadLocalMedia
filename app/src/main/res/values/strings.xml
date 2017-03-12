@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocalMedia</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="readAudio">音乐</string>
+    <string name="readVideo">视频</string>
+    <string name="readPhoto">图片</string>
+</resources>
